@@ -93,3 +93,5 @@ export const TableContainer = styled.section`
     }
   }
 `;
+
+export const Transaction = styled.tbody``;
